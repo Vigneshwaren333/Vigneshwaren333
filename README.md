@@ -67,13 +67,6 @@ Interested in **Full-Stack Development**, **Automation**, **GenAI/LLMs**, and **
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Vigneshwaren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwaren333&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaren333&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=html,css&cache_seconds=1800)
 
 ---
 
